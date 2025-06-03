@@ -56,7 +56,6 @@
 
 ### 🧩 Un poco más de mí
 
-```yaml
 nombre: Tiziano Luzi Ramos
 ocupación: Desarrollador & Entusiasta del Open Source
 localización: Tandil, Argentina
