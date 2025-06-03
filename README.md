@@ -71,5 +71,4 @@ habilidades:
 
 💬 En desarrollo: sitio personal y redes profesionales
 
-<p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" /> </p>
-<!-- Pie de página animado --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=150&section=footer"/> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" /> </p>`
