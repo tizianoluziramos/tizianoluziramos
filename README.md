@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Pepito! 👋</h1>
+<h1 align="center">¡Hola, soy Tiziano! 👋</h1>
 <p align="center">
   Desarrollador • Investigador • Entusiasta del Código Abierto
 </p>
@@ -19,10 +19,6 @@
 - 🔍 Investigo temas de **ciberseguridad**, **sistemas embebidos**, y **desarrollo de sistemas operativos personalizados**.
 - 🧰 Trabajo con **Node.js**, **TypeScript**, **C++**, **Bash**, y más.
 - 🛠️ Me interesa la **ingeniería inversa**, el **desarrollo seguro** y los **proyectos low-level**.
-- 🌱 Actualmente estoy trabajando en:  
-  - 🖥️ Un sistema operativo terminal-only simulado llamado `FakeLinux`.  
-  - 📱 Un simulador de teléfono escrito en TypeScript.  
-  - 🧪 Proyectos científicos y educativos para ferias escolares.  
 
 ---
 
