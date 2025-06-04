@@ -34,10 +34,8 @@
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [`FakeLinux`](https://github.com/tizianoluziramos/fakelinux) | Sistema operativo simulado estilo terminal hecho en Node.js. Rutas virtuales, módulos y shell propio. |
-| [`PhoneEmulator`](https://github.com/tizianoluziramos/phone-emulator) | Simulador de teléfono en TypeScript. Bootloader, batería, apps, ROMs, seguridad y más. |
-| [`TPM Simulator`](https://github.com/tizianoluziramos/tpm-simulator) | Simulador de Trusted Platform Module. Seguridad criptográfica modelada en clases TypeScript. |
-| [`UntrefSchool`](https://github.com/tizianoluziramos/untrefschool) | Sitio web educativo diseñado para una institución, con autenticación, cookies, y maquetación precisa. |
+| [`FakeLinux`](https://github.com/tizianoluziramos/notlinux) | Sistema operativo simulado estilo terminal hecho en Node.js. Rutas virtuales, módulos y shell propio. |
+| [`TypeScript Lenguage Project`](https://github.com/tizianoluziramos/TypeScript-Lenguage-Proyect/) | TypeScript en todos los idiomas, Diferentes idiomas, modulos separados y modulos de TypeScript incluidos 
 
 ---
 
@@ -56,7 +54,7 @@
 
 ### 🧩 Un poco más de mí
 
-nombre: Tiziano Luzi Ramos
+nombre: Tiziano Tomas Luzi Ramos
 ocupación: Desarrollador & Entusiasta del Open Source
 localización: Tandil, Argentina
 lenguajes_favoritos: [TypeScript, C++, Bash]
