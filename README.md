@@ -16,8 +16,7 @@
 
 - 🔍 Investigo temas de **ciberseguridad**, **sistemas embebidos**, y **desarrollo de sistemas operativos personalizados**.
 - 🧰 Trabajo con **Node.js**, **TypeScript**, **C++**, **Bash**, y más.
-- 🛠️ Me apasiona la **ingeniería inversa**, el **desarrollo seguro**, los **proyectos low-level** y la **educación científica**.
-- 🧪 Participé en ferias de ciencias con proyectos como *¿Qué Respiramos?* y *Raíces que Rompen Baldosas*.
+- 🛠️ Me apasiona la **ingeniería inversa**, el **desarrollo seguro**, los **proyectos low-level** y la **educación científica**
 - 🌱 En constante aprendizaje y con ganas de crear cosas que funcionen **desde cero**.
 
 ---
