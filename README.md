@@ -56,7 +56,7 @@
 name: Tiziano Tomas Luzi Ramos  
 occupation: Developer & Open Source Enthusiast  
 location: Tandil, Argentina  
-favorite_languages: [TypeScript, C++, Bash]  
+<p>Favourite Languages:</p><a>TypeScript & Python</a>
 skills: 
   - Reverse Engineering
   - Android Security
