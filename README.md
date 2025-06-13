@@ -52,7 +52,7 @@
 ---
 
 ### 🧩 A Bit More About Me
-<p>Name</p>: Tiziano Tomas Luzi Ramos  
+<p>Name: <a>Tiziano Tomas Luzi Ramos</a></p>:   
 occupation: Developer & Open Source Enthusiast  
 location: Tandil, Argentina  
 <p>Favourite Languages:</p><a>TypeScript & Python</a>
