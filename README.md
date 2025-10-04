@@ -56,7 +56,7 @@
 
   <p><strong>Name:</strong> Tiziano Tomas Luzi Ramos</p>
   <p><strong>Occupation:</strong> Developer &amp; Open Source Enthusiast</p>
-  <p><strong>Location:</strong> Tandil, Argentina</p>
+  <p><strong>Location:</strong> Balcarce, Argentina</p>
 
   <p><strong>Favourite Languages:</strong> <span>TypeScript &amp; Python</span></p>
 
