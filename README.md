@@ -74,9 +74,4 @@
   <p>💬 In progress: personal website and professional networks</p>
 </section>
 
-📫 Contact  
-📧 tizianoluziramos@gmail.com
-
-💬 In progress: personal website and professional networks
-
 <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" /> </p>
