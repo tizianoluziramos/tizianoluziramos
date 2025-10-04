@@ -51,17 +51,28 @@
 
 ---
 
-### 🧩 A Bit More About Me
-<p>Name: <a>Tiziano Tomas Luzi Ramos</a></p>:   
-occupation: Developer & Open Source Enthusiast  
-location: Tandil, Argentina  
-<p>Favourite Languages:</p><a>TypeScript & Python</a>
-<h2>skills: 
-  - Reverse Engineering
-  - Android Security
-  - Embedded Systems
-  - Simulators
-</h2>
+<section>
+  <h2>🧩 A Bit More About Me</h2>
+
+  <p><strong>Name:</strong> Tiziano Tomas Luzi Ramos</p>
+  <p><strong>Occupation:</strong> Developer &amp; Open Source Enthusiast</p>
+  <p><strong>Location:</strong> Tandil, Argentina</p>
+
+  <p><strong>Favourite Languages:</strong> <span>TypeScript &amp; Python</span></p>
+
+  <h3>Skills:</h3>
+  <ul>
+    <li>Reverse Engineering</li>
+    <li>Android Security</li>
+    <li>Embedded Systems</li>
+    <li>Simulators</li>
+  </ul>
+
+  <h3>📫 Contact</h3>
+  <p><strong>Email:</strong> <a href="mailto:tizianoluziramos@gmail.com">tizianoluziramos@gmail.com</a></p>
+
+  <p>💬 In progress: personal website and professional networks</p>
+</section>
 
 📫 Contact  
 📧 tizianoluziramos@gmail.com
