@@ -31,10 +31,7 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [`FakeLinux`](https://github.com/tizianoluziramos/notlinux) | Terminal-style simulated operating system made in Node.js. Virtual paths, modules, and its own shell. |
-| [`TypeScript Lenguage Project`](https://github.com/tizianoluziramos/TypeScript-Lenguage-Proyect/) | TypeScript in all languages. Multiple languages, separated modules, and included TypeScript modules. |
+## Just look at my organizations lmao
 
 ---
 
