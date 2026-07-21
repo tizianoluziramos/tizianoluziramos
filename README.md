@@ -33,8 +33,6 @@
 
 ## Just look at my organizations lmao
 
----
-
 <section>
   <h2>🧩 A Bit More About Me</h2>
 
